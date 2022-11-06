@@ -1,2 +1,8 @@
-print("This is Intressting Man")
-print("This was so hard but i did it man!! thank god")
+import math
+def factor(f):
+    c = math.factorial(f)
+    print("Ans =",c)
+
+n = int(input("Enter Number: "))
+factor(n)
+    
