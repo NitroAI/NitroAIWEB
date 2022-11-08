@@ -66,6 +66,6 @@ lv.pack(pady=10)
 # #
 # lv3 = Label(win,text="COM",font=("comic",15))
 # lv3.place(x=222,y=190)
-#Hellw
+
 
 mainloop()
