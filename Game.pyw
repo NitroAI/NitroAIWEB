@@ -68,4 +68,13 @@ lv.pack(pady=10)
 # lv3.place(x=222,y=190)
 
 
+
+
+
+
+
+
+
+
+
 mainloop()
